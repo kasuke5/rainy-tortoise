@@ -7,11 +7,13 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Matérialisez vos idées ou vos envies
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Que ce soit un cadeau à offire vraiment unique, un projet que vous avez
+      envie de voir réalité ou bien encore réparer un petit bout de plastique.
+      C'est possible !
     actions:
       - title: See all items
         url: /store
